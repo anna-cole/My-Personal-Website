@@ -7,13 +7,13 @@ body {
     font-family: Arial, Helvetica, sans-serif; 
 }
 h1 {
-    font-size: 50px;
+    font-size: 30px;
     margin-top: 200px;
 }
 input {
     border: 0;
     padding: 10px;
-    font-size: 30px;
+    font-size: 10px;
 }
 input[type="submit"] {
     background: red;
