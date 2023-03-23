@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background: url("https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/f2/84/26.jpg");
+    background-size: cover;
+    background-position: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+h1 {
+    font-size: 50px;
+    margin-top: 200px;
+}
+input {
+    border: 0;
+    padding: 10px;
+    font-size: 30px;
+}
+input[type="submit"] {
+    background: red;
+    color: white;
+}
