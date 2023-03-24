@@ -8,3 +8,14 @@ const button = document.querySelector('input[type="submit"]');
 button.addEventListener('click', function() {
     alert('Your email has been sent successfully.');
 });
+
+const hover = document.getElementById("hover");
+hover.addEventListener("mouseover", 
+(event) => {
+    event.target.style.color = "orange";
+    setTimeout(() => {
+        event.target.style.color = "";
+    }, 500);
+},
+false
+);
