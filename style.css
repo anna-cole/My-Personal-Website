@@ -30,8 +30,8 @@ img {
     color: white;
   }
   li {
-    display: inline;
     padding: 0px 10px 0px 10px;
     text-decoration: underline;
     font-family: 'Courier New', Courier, monospace;
+    display: inline;
   }
