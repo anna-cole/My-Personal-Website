@@ -1,8 +1,11 @@
-body {
+html, body {
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
     text-align: center;
-    background: url("https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/f2/84/26.jpg");
+    background: url("https://dowley.com/wp-content/uploads/2015/06/Houston-skyline.jpg") center no-repeat;
     background-size: cover;
-    background-position: center;
     color: white;
     font-family: Arial, Helvetica, sans-serif; 
 }
